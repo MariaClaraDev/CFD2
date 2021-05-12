@@ -1,7 +1,7 @@
 ## Desafio 2
 
 ### Finalidade:
-Este programa tem a finalidade de pesquisar em quantos filmes o Planeta *Alderaan* é mencioando.
+Este programa tem o objetivo de pesquisar em quantos filmes o Planeta *Alderaan* é mencioando.
 
 
 
